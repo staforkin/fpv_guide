@@ -4,7 +4,7 @@
 - [Joshua Bardwell](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ) - must see по всем вопросам fpv. Обзоры, мануалы для одноклеточных, тонны полезного материала
 - [Mr. Steele](https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA)
 - [Drone Mesh](https://www.youtube.com/channel/UC3c9WhUvKv2eoqZNSqAGQXg)
-- [Le Driv](https://www.youtube.com/channel/UCHxiKnzTyzE9Qez8ZGpQbPQ)
+- [Le Drib](https://www.youtube.com/channel/UCHxiKnzTyzE9Qez8ZGpQbPQ)
 - [StingersSwarm](https://www.youtube.com/user/stingersswarm)
 ## Блоггеры на русском
 - [AnikFPV](https://www.youtube.com/channel/UC29J5CXmsnqX7JPAzlU9yCQ) - must see только на русском. Так же обзоры, гайды, объяснения что как и почему работает.
