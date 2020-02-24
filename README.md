@@ -24,3 +24,4 @@
 > [TBS Crossfire vs. FrSky R9](https://www.youtube.com/watch?v=oGYcmgNGBtM) (tldw - большинство выбирает Crossfire. Лично у меня вот такой - [туц](https://www.team-blacksheep.com/products/prod:crossfire_micro_tx))
 ## Симуляторы
 - [LiftOff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) - практикуюсь в этом. Есть видеоуроки, тренажёрные трассы и достаточная кастомизация. По личному опыту - нужно как минимум 10 часов налетать, чтобы на первом реальном более-менее спокойно себя ощущать в воздухе.
+- [Velocidrone](https://www.velocidrone.com/)
